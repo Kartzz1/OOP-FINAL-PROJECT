@@ -1,0 +1,18 @@
+Pet Adoption Management System
+
+Scenario:
+An animal shelter wants a system that can help manage the adoption process of their pets. The staff often use paper records to track pets and adopters, which makes it hard to find information quickly. The shelter needs a simple system that can keep pet details organized and record every adoption properly. This system will make it easier for both staff and adopters to handle pet adoptions in a faster and more accurate way.
+
+Description:
+The Pet Adoption Management System is a simple program made to help animal shelters record and track pet adoptions. The system allows the staff to add new pets, record adopters, and update the status of each pet once adopted. Each pet has details such as ID, name, type, and status. When a person decides to adopt, their name and contact number are recorded as an adopter. Once the adoption is confirmed, the pet’s status will change from “Available” to “Adopted.”
+This system is built using the main principles of Object-Oriented Programming (OOP) in Java. It applies encapsulation to protect pet information inside the class. Abstraction is used by creating a general Person class that both Staff and Adopter can share. Inheritance is applied when Adopter and Staff classes use the properties and methods of the Person class. Lastly, polymorphism is used when the same method shows different outputs for each class.
+The system helps animal shelters organize their pet data in an efficient way. It reduces manual work, saves time, and avoids confusion during the adoption process. Staff can easily check which pets are still available and record new adoptions correctly. This program promotes responsible pet ownership and shows how technology can be used in a simple but meaningful way to support animal care.
+
+Features:
+1.User Management – Manage adopter and staff profiles, including their personal details.
+2.Pet Listing – View all pets with their names, types, and adoption status.
+3.Adoption Records – Keep track of all adoption transactions and details.
+4.Status Update – Change the pet’s status from “Available” to “Adopted.”
+5.Information Viewing – View details about each pet and adopter easily.
+6.Efficient Record System – Reduces manual errors and improves record organization.
+
