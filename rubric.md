@@ -29,6 +29,20 @@ Excellent implementation of all four OOP concepts with practical real-world appl
 
 ---
 
-## Final Grade: 85/100
+### 5. Extra Points (up to 6)
+
+**Features:** 3/5
+- File saving
+- Console experience
+
+**Code Quality:** 1.0/1.0
+- Variable naming: 0.5/0.5
+- Code organization: 0.5/0.5
+
+**Extra Points Total:** +4.0
+
+---
+
+## Final Grade: 85 + 4.0 = **89/100**
 
 *Assessment generated based on project analysis.*
